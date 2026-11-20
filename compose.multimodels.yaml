@@ -46,8 +46,6 @@ services:
       - on
       - --tools
       - all
-      - -t
-      - "4"
       - -c
       - "256000"
     restart: unless-stopped
