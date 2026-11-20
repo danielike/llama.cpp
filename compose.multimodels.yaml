@@ -39,7 +39,7 @@ services:
       - --fit-target
       - "512"
       - -ub
-      - "1024"
+      - "512"
       - --moe-cache-mib
       - "2048"
       - --reasoning
